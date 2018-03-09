@@ -5,23 +5,23 @@ Atlanta, GA | sean@seanmcp.com | (814) 933-7229
 JavaScript, React, Redux, Jest, Enzyme, Node.js, Express, NoSQL, MongoDB, Mongoose, SQL, Postgres, Sequelize, jQuery, Test-driven development, HTML, CSS, responsive design, Git, and Github
 
 ## Work experience
-### Software Developer, 2018 - Present
-**TSYS Digital Innovations** (Alpharetta, GA)
+### TSYS Digital Innovations - Alpharetta, GA
+**Software Developer**, 2018 - Present
 - Tech stack: React, Redux, and Java (Spring)
 - Developed front-end applications on an agile development team
 
-### Freelance Web Designer and Developer, 2006 - 2015
-**Self-employed** (State College, PA & Edinboro, PA)
+### Freelance - State College & Edinboro, PA
+**Web Designer and Developer**, 2006 - 2015
 - Designed clean logos and websites for individuals and small businesses
 - Developed responsive websites and integrated content management systems
 
-### Learning Designer, 2009 - 2010
-**Pennsylvania State University** (University Park, PA)
+### Pennsylvania State University - University Park, PA
+**Learning Designer**, 2009 - 2010
 - Developed pages with dynamic content for online university courses 
 - Managed courses using Penn State’s Angel online content management system
 
-### Project Manager and Lead Designer, 2008 - 2010
-**Brambling Design** (State College, PA)
+### Brambling Design - State College, PA
+**Project Manager and Lead Designer**, 2008 - 2010
 - Managed projects on a team of developers to ensure customer satisfaction
 - Designed and developed responsive websites for individuals and small businesses
 
