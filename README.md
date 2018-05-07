@@ -27,7 +27,7 @@ JavaScript, React, Redux, Jest, Enzyme, Node.js, Express, NoSQL, MongoDB, Mongoo
 
 
 ## Applications
-Beta:
+### Beta
 - [Dice Roller](http://dice.seanmcp.com) - A handy dice roller for table-top gaming [(Repo)](https://github.com/seanmcp/dice-roller)
 - [Contraction Tracker](http://contractions.seanmcp.com) - A simple way to track your contractions during labor [(Repo)](https://github.com/seanmcp/contraction-tracker)
  
