@@ -1,16 +1,26 @@
 # Sean McPherson
-Atlanta, GA | sean@seanmcp.com | (814) 933-7229
+Atlanta, GA | sean@seanmcp.com
 
-## Skills
+## Details
+
+### Overview
+I am a JavaScript developer who is interested in using technology to solve real worlds problems. I am particularly interested in developing applications that will help workers complete their tasks more quickly and efficiently.
+
+### Skills (aka Buzzwords)
 JavaScript, React, Redux, Jest, Enzyme, Node.js, Express, NoSQL, MongoDB, Mongoose, SQL, Postgres, Sequelize, jQuery, Test-driven development, HTML, CSS, responsive design, Git, and Github
 
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, 2018 - Present
 - Tech stack: React, Redux, and Java (Spring)
-- Developed front-end applications on an agile development team
+- Developed enterprise applications for major financial institutions
+- Worked on a multi-disciplinary team in an agile environment
 
-### Freelance - State College & Edinboro, PA
+### Freelance
+**JavaScript Developer**, 2017 - Present
+- Developed JavaScript applications for web development agencies
+- Available for consultation, maintenance, and/or new development
+
 **Web Designer and Developer**, 2006 - 2015
 - Designed clean logos and websites for individuals and small businesses
 - Developed responsive websites and integrated content management systems
