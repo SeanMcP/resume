@@ -4,10 +4,13 @@ Atlanta, GA | sean@seanmcp.com
 ## Details
 
 ### Overview
-I am a JavaScript developer who is interested in using technology to solve real worlds problems. I am particularly interested in developing applications that will help workers complete their tasks more quickly and efficiently.
+I am interested in using technology to solve complex problems that will make the world a more safe, just, fair, and equitable place.
 
-### Skills (aka Buzzwords)
-JavaScript, React, Redux, Jest, Enzyme, Node.js, Express, NoSQL, MongoDB, Mongoose, SQL, Postgres, Sequelize, jQuery, Test-driven development, HTML, CSS, responsive design, Git, and Github
+## Interests
+JavaScript, React, Python, progressive web applications, user interface and experience design, and the International Typographic Style
+
+### Other skills (_i.e._ buzzwords)
+Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, MongoDB, Mongoose, SQL, Postgres, Sequelize, test-driven development, HTML, CSS, responsive design, git, and GitHub
 
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
