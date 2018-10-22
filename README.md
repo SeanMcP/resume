@@ -50,6 +50,14 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 
 - [Vanilla Include](https://npmjs.com/package/vanilla-include) - A JavaScript implementation of php's include function for HTML templating
 - [Nodify String](https://npmjs.com/package/nodify-string) - A utility for converting HTML strings into DOM nodes without innerHTML
+
+### Simple JS apps
+
+- [Percent Grader](http://percentgrader.seanmcp.com/) - Generates a table of percentages for ease of grading
+- [Fluency Calculator](http://fluency.seanmcp.com/) - Calculate the speaking or reading fluency of an individual based on fluent and disfluent syllables
+- [Simple Counter](http://counter.seanmcp.com/) - Simple Counter helps you keep track
+- [Easy Grouping](http://grouping.seanmcp.com) - Group individuals based on number of groups or number of people per group
+- [Flipcards](http://flipcards.seanmcp.com) - A site to create and review flashcards with a resting API
  
 ## Education
 ### The Iron Yard, 2017
