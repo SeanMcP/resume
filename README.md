@@ -15,9 +15,16 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, 2018 - Present
-- Tech stack: React, Redux, and Java (Spring)
 - Developed enterprise applications for major financial institutions
 - Worked on a multi-disciplinary team in an agile environment
+
+#### Projects
+- **Mobile** - A consumer-facing financial mobile application
+  - Role: UI Developer
+  - Stack: React Native, Redux, React Navigation
+- **CMS** - A content-management system for building and styling financial web applications
+  - Role: UI Developer
+  - Stack: React, Redux, React Router, Java (Spring)
 
 ### Freelance
 **JavaScript Developer**, 2017 - Present
