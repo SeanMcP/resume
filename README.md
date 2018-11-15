@@ -58,6 +58,10 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 - [Vanilla Include](https://npmjs.com/package/vanilla-include) - A JavaScript implementation of php's include function for HTML templating
 - [Nodify String](https://npmjs.com/package/nodify-string) - A utility for converting HTML strings into DOM nodes without innerHTML
 
+### Chrome Extensions
+
+- [Popsicle Sticks](https://chrome.google.com/webstore/detail/popsicle-sticks/lnckbgaeagindapiodcmccfokcmnfecm) - A random student picker
+
 ### Simple JS apps
 
 - [Percent Grader](http://percentgrader.seanmcp.com/) - Generates a table of percentages for ease of grading
