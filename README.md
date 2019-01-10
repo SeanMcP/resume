@@ -71,8 +71,10 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 - [Flipcards](http://flipcards.seanmcp.com) - A site to create and review flashcards with a resting API
 
 ## Volunteering
-## Jr Devs, 2017 - Present
-Organize a [Meetup](https://meetup.com/jrdevsatl) for developers in Peachtree Corners, GA
+### Jr Devs - Peachtree Corners, GA
+**Organizer**, 2017 - Present
+
+I created and run a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
  
 ## Education
 ### The Iron Yard, 2017
