@@ -1,5 +1,5 @@
 # Sean McPherson
-Atlanta, GA | sean@seanmcp.com
+Atlanta, GA | seanmcp@pm.me
 
 ## Details
 
@@ -69,6 +69,10 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 - [Simple Counter](http://counter.seanmcp.com/) - Simple Counter helps you keep track
 - [Easy Grouping](http://grouping.seanmcp.com) - Group individuals based on number of groups or number of people per group
 - [Flipcards](http://flipcards.seanmcp.com) - A site to create and review flashcards with a resting API
+
+## Volunteering
+## Jr Devs, 2017 - Present
+Organize a [Meetup](https://meetup.com/jrdevsatl) for developers in Peachtree Corners, GA
  
 ## Education
 ### The Iron Yard, 2017
