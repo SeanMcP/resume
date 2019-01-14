@@ -55,6 +55,7 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 
 ### NPM Packages
 
+- [A11y React Emoji](https://www.npmjs.com/package/a11y-react-emoji) - An accessible Emoji component for React applications
 - [Vanilla Include](https://npmjs.com/package/vanilla-include) - A JavaScript implementation of php's include function for HTML templating
 - [Nodify String](https://npmjs.com/package/nodify-string) - A utility for converting HTML strings into DOM nodes without innerHTML
 
