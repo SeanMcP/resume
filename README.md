@@ -1,5 +1,5 @@
 # Sean McPherson
-Atlanta, GA | seanmcp@pm.me
+Atlanta, GA | sean@seanmcp.com
 
 ## Details
 
