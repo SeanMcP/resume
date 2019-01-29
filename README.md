@@ -4,13 +4,13 @@ Atlanta, GA | sean@seanmcp.com
 ## Details
 
 ### Overview
-I am interested in using technology to solve complex problems that will make the world a more safe, just, fair, and equitable place.
+I am a front-end developer and former educator with a passion for creating user interfaces that are clean, accessible, efficient, and that provide an excellent user experience.
 
 ## Interests
-JavaScript, React, Python, progressive web applications, user interface and experience design, and the International Typographic Style
+JavaScript, React, Python, progressive web applications, user interface and experience design, accessibility, and the International Typographic Style
 
 ### Other skills (_i.e._ buzzwords)
-React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, MongoDB, Mongoose, SQL, Postgres, Sequelize, test-driven development, HTML, CSS, responsive design, git, and GitHub
+React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express, MongoDB, Mongoose, Postgres, Sequelize, test-driven development, HTML, CSS, responsive design, git, and GitHub
 
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
@@ -50,11 +50,14 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 
 ### Web Apps
 
-- [Dice Roller](http://dice.seanmcp.com) - A handy dice roller for table-top gaming [(Repo)](https://github.com/seanmcp/dice-roller)
-- [Contraction Tracker](http://contractions.seanmcp.com) - A simple way to track your contractions during labor [(Repo)](https://github.com/seanmcp/contraction-tracker)
+- [Sushi Go Friend](https://sushigofriend.netlify.com) - A companion app for Sushi Go! [(Repo)](https://github.com/seanmcp/sushi-go-friend)
+- [Dice Roller](https://seanmcp.github.io/dice-roller/) - A handy dice roller for table-top gaming [(Repo)](https://github.com/seanmcp/dice-roller)
+- [Contraction Tracker](https://seanmcp.github.io/contraction-tracker/) - A simple way to track your contractions during labor [(Repo)](https://github.com/seanmcp/contraction-tracker)
 
 ### NPM Packages
 
+- [onKey Event Manager](https://www.npmjs.com/package/onkey-event-manager) - Easily map onKey functions to keyboard events
+- [All KeyboardEvent Keys](https://www.npmjs.com/package/all-keyboardevent-keys) - All* KeyboardEvent Keys
 - [A11y React Emoji](https://www.npmjs.com/package/a11y-react-emoji) - An accessible Emoji component for React applications
 - [Vanilla Include](https://npmjs.com/package/vanilla-include) - A JavaScript implementation of php's include function for HTML templating
 - [Nodify String](https://npmjs.com/package/nodify-string) - A utility for converting HTML strings into DOM nodes without innerHTML
@@ -73,7 +76,7 @@ React Native, Redux, Jest, Enzyme, Google Firebase, Node.js, Express, NoSQL, Mon
 
 ## Volunteering
 ### Jr Devs - Peachtree Corners, GA
-**Organizer**, 2017 - Present
+**Organizer**, 2018 - Present
 
 I created and run a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
  
