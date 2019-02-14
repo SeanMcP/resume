@@ -15,15 +15,19 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express,
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, 2018 - Present
-- Developed enterprise applications for major financial institutions
+- Developed enterprise desktop and mobile applications for major financial institutions
 - Worked on a multi-disciplinary team in an agile environment
+- Brand ambassador at college career fairs (Emory University, University of Georgia)
 
 #### Projects
+- **CMS** - A content-management system for building and styling financial web applications
+  - Role: UI Developer
+  - Stack: React, Redux, React Router, Java (Spring)
 - **Mobile** - A consumer-facing financial mobile application
   - Role: UI Developer
   - Stack: React Native, Redux, React Navigation
-- **CMS** - A content-management system for building and styling financial web applications
-  - Role: UI Developer
+- **CMS 2** - A redesign of the original content management system
+  - Role: Lead UI Developer
   - Stack: React, Redux, React Router, Java (Spring)
 
 ### Freelance
@@ -78,7 +82,7 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express,
 ### Jr Devs - Peachtree Corners, GA
 **Organizer**, 2018 - Present
 
-I created and run a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
+I organized and run a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
  
 ## Education
 ### The Iron Yard, 2017
