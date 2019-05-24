@@ -70,7 +70,7 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 - [Contraction Tracker](https://seanmcp.github.io/contraction-tracker/) - A simple way to track your contractions during labor [(Repo)](https://github.com/seanmcp/contraction-tracker)
 
 ### NPM Packages
-For a full list, [visit my profile on npmjs.com](https://www.npmjs.com/~seanmcp)
+For a full list, [visit my profile on npm](https://www.npmjs.com/~seanmcp).
 
 - [onKey Event Manager](https://www.npmjs.com/package/onkey-event-manager) - Easily map onKey functions to keyboard events
 - [All KeyboardEvent Keys](https://www.npmjs.com/package/all-keyboardevent-keys) - All* KeyboardEvent Keys
