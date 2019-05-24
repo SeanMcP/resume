@@ -7,17 +7,24 @@ Atlanta, GA | sean@seanmcp.com
 I am a front-end developer and former educator with a passion for creating user interfaces that are clean, accessible, efficient, and that provide an excellent user experience.
 
 ## Interests
-JavaScript, React, Python, progressive web applications, user interface and experience design, accessibility, and the International Typographic Style
+JavaScript, React, Node.js, Python, progressive web applications, user interface and experience design, accessibility, and the International Typographic Style
 
 ### Other skills (_i.e._ buzzwords)
-React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express, MongoDB, Mongoose, Postgres, Sequelize, test-driven development, HTML, CSS, responsive design, git, and GitHub
+React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB, Mongoose, Postgres, Sequelize, SQLite, test-driven development, HTML, CSS, responsive design, git, and GitHub
 
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, 2018 - Present
-- Developed enterprise desktop and mobile applications for major financial institutions
+- Developed a enterprise web content management system in React to customize a consumer-facing financial application
+- Developed a consumer-facing financial mobile application in React Native
+- Collaborated closely with designers to implement high-quality user-interfaces that matched specifications
 - Worked on a multi-disciplinary team in an agile environment
 - Brand ambassador at college career fairs (Emory University, University of Georgia)
+
+#### Roles
+- **Software Developer II**, Dec. 2018 - Present
+- **Software Developer I**, Apr. 2018 - Dec. 2018
+- **Contractor**, Jan. 2018 - Apr. 2018
 
 #### Projects
 - **CMS** - A content-management system for building and styling financial web applications
@@ -27,8 +34,12 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express,
   - Role: UI Developer
   - Stack: React Native, Redux, React Navigation
 - **CMS 2** - A redesign of the original content management system
-  - Role: Lead UI Developer
+  - Role: UI Developer
   - Stack: React, Redux, React Router, Java (Spring)
+- **Microsoft Teams Bot** - An integrated chat bot similar to GitHub's Hubot
+  - First runner-up in company-wide Hackathon
+  - Role: Team member and presenter
+  - Stack: Node.js, Python
 
 ### Freelance
 **JavaScript Developer**, 2017 - Present
@@ -40,12 +51,12 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express,
 - Developed responsive websites and integrated content management systems
 
 ### Pennsylvania State University - University Park, PA
-**Learning Designer**, 2009 - 2010
+**Learning Designer (Developer)**, 2009 - 2010
 - Developed pages with dynamic content for online university courses 
 - Managed courses using Penn State’s Angel online content management system
 
 ### Brambling Design - State College, PA
-**Project Manager and Lead Designer**, 2008 - 2010
+**Project Manager, Lead Designer, and Developer**, 2008 - 2010
 - Managed projects on a team of developers to ensure customer satisfaction
 - Designed and developed responsive websites for individuals and small businesses
 
@@ -59,6 +70,7 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Node.js, Express,
 - [Contraction Tracker](https://seanmcp.github.io/contraction-tracker/) - A simple way to track your contractions during labor [(Repo)](https://github.com/seanmcp/contraction-tracker)
 
 ### NPM Packages
+For a full list, [visit my profile on npmjs.com](https://www.npmjs.com/~seanmcp)
 
 - [onKey Event Manager](https://www.npmjs.com/package/onkey-event-manager) - Easily map onKey functions to keyboard events
 - [All KeyboardEvent Keys](https://www.npmjs.com/package/all-keyboardevent-keys) - All* KeyboardEvent Keys
