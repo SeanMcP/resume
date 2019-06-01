@@ -51,12 +51,12 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 - Developed responsive websites and integrated content management systems
 
 ### Pennsylvania State University - University Park, PA
-**Learning Designer (Developer)**, 2009 - 2010
+**Learning Designer/Developer**, 2009 - 2010
 - Developed pages with dynamic content for online university courses 
 - Managed courses using Penn State’s Angel online content management system
 
 ### Brambling Design - State College, PA
-**Project Manager, Lead Designer, and Developer**, 2008 - 2010
+**Co-founder, Designer/Developer**, 2008 - 2010
 - Managed projects on a team of developers to ensure customer satisfaction
 - Designed and developed responsive websites for individuals and small businesses
 
