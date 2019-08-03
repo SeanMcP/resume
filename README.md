@@ -14,7 +14,7 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 
 ## Work experience
 ### TSYS Digital Innovations - Alpharetta, GA
-**Software Developer**, 2018 - Present
+**Software Developer**, Jan. 2018 - Aug. 2019
 - Developed a enterprise web content management system in React to customize a consumer-facing financial application
 - Developed a consumer-facing financial mobile application in React Native
 - Collaborated closely with designers to implement high-quality user-interfaces that matched specifications
@@ -22,7 +22,7 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 - Brand ambassador at college career fairs (Emory University, University of Georgia)
 
 #### Roles
-- **Software Developer II**, Dec. 2018 - Present
+- **Software Developer II**, Dec. 2018 - Aug. 2019
 - **Software Developer I**, Apr. 2018 - Dec. 2018
 - **Contractor**, Jan. 2018 - Apr. 2018
 
