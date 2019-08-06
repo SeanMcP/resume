@@ -17,6 +17,11 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 **Software Developer**, Jan. 2018 - Aug. 2019
 - Developed a enterprise web content management system in React to customize a consumer-facing financial application
 - Developed a consumer-facing financial mobile application in React Native
+- Reviewed front-end code across the division
+- Lead a bi-monthly front-end professional development meetup
+- Screened and interviewed candidates for entry-, middle-, and senior-level positions
+- Mentored junior developers individually and in small groups
+- Gave interdepartmental talks on front-end development
 - Collaborated closely with designers to implement high-quality user-interfaces that matched specifications
 - Worked on a multi-disciplinary team in an agile environment
 - Brand ambassador at college career fairs (Emory University, University of Georgia)
