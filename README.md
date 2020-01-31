@@ -1,5 +1,5 @@
 # Sean McPherson
-Atlanta, GA | sean@seanmcp.com
+Pittsburgh, PA | sean@seanmcp.com
 
 ## Details
 
@@ -13,6 +13,9 @@ JavaScript, React, Node.js, Python, progressive web applications, user interface
 React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB, Mongoose, Postgres, Sequelize, SQLite, test-driven development, HTML, CSS, responsive design, git, and GitHub
 
 ## Work experience
+### Niche.com - Pittsburgh, PA
+**Front-end Engineer**, Aug. 2019 - Present
+
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, Jan. 2018 - Aug. 2019
 - Developed a enterprise web content management system in React to customize a consumer-facing financial application
@@ -97,9 +100,9 @@ For a full list, [visit my profile on npm](https://www.npmjs.com/~seanmcp).
 
 ## Volunteering
 ### Jr Devs - Peachtree Corners, GA
-**Organizer**, 2018 - Present
+**Organizer**, 2018 - 2019
 
-I organized and run a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
+I organized and ran a [Meetup](https://meetup.com/jrdevsatl) for developers, self-learners, and enthusiasts who are looking to learn more about coding.
  
 ## Education
 ### The Iron Yard, 2017
