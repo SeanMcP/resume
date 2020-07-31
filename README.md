@@ -7,7 +7,7 @@ Pittsburgh, PA | sean@seanmcp.com
 I am a front-end developer and former educator with a passion for creating user interfaces that are clean, accessible, efficient, and that provide an excellent user experience.
 
 ## Interests
-JavaScript, React, Node.js, Python, progressive web applications, user interface and experience design, accessibility, and the International Typographic Style
+JavaScript, React, Svelte, Node.js, Deno, progressive web applications, user interface and experience design, accessibility, and the International Typographic Style
 
 ### Other skills (_i.e._ buzzwords)
 React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB, Mongoose, Postgres, Sequelize, SQLite, test-driven development, HTML, CSS, responsive design, git, and GitHub
@@ -15,6 +15,9 @@ React Native, Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB,
 ## Work experience
 ### Niche.com - Pittsburgh, PA
 **Front-end Engineer**, Aug. 2019 - Present
+- Developed a contextual state management solution for server-side rendered application
+- Worked on a localization solution for Niche.com
+- Started a weekly "learn over lunch" session to encourage continuing education
 
 ### TSYS Digital Innovations - Alpharetta, GA
 **Software Developer**, Jan. 2018 - Aug. 2019
