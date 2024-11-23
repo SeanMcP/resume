@@ -13,8 +13,19 @@ JavaScript, React, React Native, Svelte, Node.js, Deno, progressive web applicat
 Redux, Jest, Enzyme, CSS-in-JS, Google Firebase, Express, MongoDB, Mongoose, Postgres, Sequelize, SQLite, test-driven development, HTML, CSS, responsive design, git, and GitHub
 
 ## Work experience
+### Khan Academy
+**Senior Software Engineer**, Sep. 2024 - Present
+
+**Software Engineer** Jan. 2022 - Aug. 2024
+- Technical lead for development and launch of Writing Coach
+- Contributed to launch of Academic Essay Feedback activity
+- Contributed to rebuild of course and unit pages with an emphasis on learner engagement
+- Contributed to rebuild of the main learning interface
+
 ### Niche.com - Pittsburgh, PA
-**Senior Software Engineer, Mobile**, July 2021 - Present
+**Senior Software Engineer, Mobile**, July 2021 - January 2022
+- Technical lead for mobile app development team
+- Architected new mobile app
 
 **Software Engineer, Front End**, Aug. 2019 - July 2021
 - Developed a contextual state management solution for server-side rendered application
